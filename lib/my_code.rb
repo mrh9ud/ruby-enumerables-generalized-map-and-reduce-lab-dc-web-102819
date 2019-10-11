@@ -17,5 +17,9 @@ def reduce(array, starting_point=0)
     value = array[0]
     i = 1
   end
-  while 
+  while i < array.length do 
+    
+    
+  end
+  return value
 end
