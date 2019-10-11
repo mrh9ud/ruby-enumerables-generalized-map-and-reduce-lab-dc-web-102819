@@ -14,6 +14,7 @@ def reduce(array, starting_point=0)
     value = starting_point
     i = 0 
   else
+    value = array[0]
     
   end
   
