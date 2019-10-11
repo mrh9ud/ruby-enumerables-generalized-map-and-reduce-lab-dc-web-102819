@@ -10,6 +10,10 @@ def map(array)
 end
 
 def reduce(array, starting_point=0)
-  
+  if starting_point
+    value = starting_point
+    i = 0 
+    
+  end
   
 end
